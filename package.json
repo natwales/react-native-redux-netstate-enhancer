@@ -1,0 +1,17 @@
+{
+  "name": "react-native-redux-netstate-enhancer",
+  "version": "1.0.0",
+  "description": "Enhancer to connect network state changes to a react native redux store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux",
+    "ehancer",
+    "react-native",
+    "netInfo"
+  ],
+  "author": "nat wales",
+  "license": "ISC"
+}
